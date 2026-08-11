@@ -81,3 +81,4 @@ Prompted by a social media question on how to get started in the hobby, it
 seems prudent to actually maintain such a resource.
 
 * SM5OUU Linus, added information for Sweden
+* EI7IJB Sandip, added information from Éire (Ireland)
