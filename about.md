@@ -82,3 +82,4 @@ seems prudent to actually maintain such a resource.
 
 * SM5OUU Linus, added information for Sweden
 * EI7IJB Sandip, added information from Éire (Ireland)
+* DC4HP Paul, added information for Germany
